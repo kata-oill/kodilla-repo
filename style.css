@@ -1,0 +1,21 @@
+section {
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px;
+}
+h1, h2, p {
+	font-family: "Noto Sans JP";
+}
+h2, p {
+	color: #17202A;
+}
+h1 {
+	font-size: 50px;
+	color: #ff5733;
+}
+h2 {
+	font-size: 25px;
+}
+p {
+	font-size: 20px;
+}
