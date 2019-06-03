@@ -7,10 +7,7 @@ h1, h2, p {
 	font-family: "Noto Sans JP";
 }
 h2, p {
-	color: yellow;
-}
-.band {
-	font-style: italic;
+	color: red;
 }
 h1 {
 	font-size: 50px;
